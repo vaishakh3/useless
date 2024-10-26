@@ -28,7 +28,6 @@ For Software:
 - Tools used: VS Code, Git, and lots of coffee
 
 ### Implementation
-For Software:
 # Installation
 ```bash
 cd destiny
