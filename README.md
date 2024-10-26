@@ -30,15 +30,15 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-'''
+```
 cd destiny
 npm install
-'''
+```
 
 # Run
-'''n
-pm run dev
-'''
+```
+npm run dev
+```
 
 ### Project Documentation
 For Software:
