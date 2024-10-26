@@ -30,13 +30,13 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-```
+```bash
 cd destiny
 npm install
 ```
 
 # Run
-```
+```bash
 npm run dev
 ```
 
