@@ -30,11 +30,11 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-cd destiny
-npm install
+'''cd destiny
+npm install'''
 
 # Run
-npm run dev
+'''npm run dev'''
 
 ### Project Documentation
 For Software:
