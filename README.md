@@ -40,20 +40,20 @@ npm run dev
 For Software:
 
 # Screenshots
-<img width="1080" alt="Initial Page" src="https://i.ibb.co/YRV13cW/Whats-App-Image-2024-10-26-at-17-43-10.jpg">
-*The User can Sign up using Google.*
+<img alt="Initial Page" src="https://i.ibb.co/YRV13cW/Whats-App-Image-2024-10-26-at-17-43-10.jpg">
+The User can Sign up using Google.
 
-<img width="1080" alt="Sign Up Screen" src="https://i.ibb.co/8xBpyg7/Whats-App-Image-2024-10-26-at-17-43-11.jpg">
-*The User enters their profile information here.*
+<img alt="Sign Up Screen" src="https://i.ibb.co/8xBpyg7/Whats-App-Image-2024-10-26-at-17-43-11.jpg">
+The User enters their profile information here.
 
-<img width="1080" alt="Dating App Cards" src="https://i.ibb.co/gjyLmQc/Whats-App-Image-2024-10-26-at-17-43-11-1.jpg">
-*The User can either like or dislike each Person's card*
+<img alt="Dating App Cards" src="https://i.ibb.co/gjyLmQc/Whats-App-Image-2024-10-26-at-17-43-11-1.jpg">
+The User can either like or dislike each Person's card
 
-<img width="1080" alt="Sign Up Screen" src="https://i.ibb.co/t4z27yz/Whats-App-Image-2024-10-26-at-17-43-12.jpg">
-*However, there's a twist! Regardless of whether the user likes or dislikes my card, I still match with the user ;)*
+<img alt="Sign Up Screen" src="https://i.ibb.co/t4z27yz/Whats-App-Image-2024-10-26-at-17-43-12.jpg">
+However, there's a twist! Regardless of whether the user likes or dislikes my card, I still match with the user ;)
 
-<img width="1080" alt="Warning Pop Up" src="https://i.ibb.co/qdsdb2Y/Whats-App-Image-2024-10-26-at-17-43-12-1.jpg">
-*Whenever the user tries to like another person, they get a warning pop up message. So the only possible match is me,me & only me. MWUAHAHAHAHA*
+<img alt="Warning Pop Up" src="https://i.ibb.co/qdsdb2Y/Whats-App-Image-2024-10-26-at-17-43-12-1.jpg">
+Whenever the user tries to like another person, they get a warning pop up message. So the only possible match is me,me & only me. MWUAHAHAHAHA
 
 
 # Diagrams
